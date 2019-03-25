@@ -1,2 +1,2 @@
-# Amazon_API_boruta
+# Amazon-API-boruta
 implementation of boruta package from Amazon
