@@ -1,0 +1,11 @@
+{
+    "user_images":"data",
+    "collectionName":"collection",
+    "conf_threshold":80,
+    "custom_font":"True",
+    "font_size":25,
+    "font_path":"Fueled_by_Schlitz.ttf",
+    "bucket":"bucket",
+    "region":"ap-south-1",
+    "emotion":"true"
+}
